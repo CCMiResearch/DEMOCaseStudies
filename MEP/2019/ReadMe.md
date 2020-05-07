@@ -14,7 +14,9 @@ Students from the Czech Technical University in Prague are modeling legislative 
 | Rezortní smlouva | https://help.odok.cz/katalog-procesu/mezinarodni-smlouvy/resortni-smlouva | Kutiš, Vlk |
 
 License: Authors agreed to publish their work under the Creative Commons 4.0 licence.  
+
 Teachers: Marek Skotnica, Robert Pergl 
+
 Research Lab: Centre for Conceptual Modeling and Implementation https://ccmi.fit.cvut.cz/en/
 
 This effort is a part of Marek Skotnica's PhD thesis about a design and IT support of compliance systems. You can read more about the aplication to law at https://medium.com/@mar.lassakova/bbfb01a3e36a 
