@@ -2,7 +2,7 @@
 
 Students from the Czech Technical University in Prague are modeling legislative procedures and suggest ways to digitize them. The process is demonstrated on this video https://www.youtube.com/watch?v=La8xuSyLD_Y 
 
-| Process  | Legislation | Students |
+| Process  | Legislation | Authors |
 | ------------- | ------------- | ------------- |
 | Společné územní a stavební řízení  | https://www.zakonyprolidi.cz/cs/2006-183  | Ševela, Smejkal  |
 | Exekuční řízení  | https://exekuce.justice.cz/popis-exekucniho-rizeni-a-jeho-institutu/  | Urbanek, Schuh  |
