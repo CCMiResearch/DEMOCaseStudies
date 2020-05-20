@@ -19,4 +19,4 @@ Teachers: Marek Skotnica, Robert Pergl
 
 Research Lab: Centre for Conceptual Modeling and Implementation https://ccmi.fit.cvut.cz/en/
 
-This effort is a part of Marek Skotnica's PhD thesis about a design and IT support of compliance systems. You can read more about the aplication to law at https://medium.com/@mar.lassakova/bbfb01a3e36a 
+This effort is a part of CCMi's research about a design and IT support of compliance systems. You can read more about the aplication to law at https://medium.com/@mar.lassakova/bbfb01a3e36a 
