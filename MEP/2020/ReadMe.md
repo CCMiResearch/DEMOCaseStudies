@@ -4,9 +4,8 @@ Students from the Czech Technical University in Prague are modeling legislative 
 
 | No. | Process  | Legislation | Authors |
 | -- | ------------- | ------------- | ------------- |
-| 1 | Řízení o kárné odpovědnosti soudců, státních zástupců a soudních exekutorů | https://www.zakonyprolidi.cz/cs/2002-7#cast1-hlava3 |  |
-| 1 | Řízení ve správním soudnictví - část 1 | https://www.zakonyprolidi.cz/cs/2002-150#cast3-hlava1 Hlava I §32-§40 |  |
-| 1 | Řízení ve správním soudnictví - část 2 | https://www.zakonyprolidi.cz/cs/2002-150#cast3-hlava1 Hlava I §41-§64 |  |
+
+
 
 Resources: 
 - LaTex Template: https://github.com/CCMiResearch/MIMEP.SemestralWork.Template
