@@ -1,4 +1,6 @@
-# Semestral Works from 2020/2021 MI-MEP CTU Courses
+# Code of Civil Procedure MI-MEP CTU 2020/2021
+
+Semestral Works from 2020/2021 MI-MEP CTU Courses. 
 
 Students from the Czech Technical University in Prague are modeling legislative procedures and suggest ways to digitize them. The process is demonstrated on this video https://www.youtube.com/watch?v=La8xuSyLD_Y 
 
