@@ -6,10 +6,9 @@ Students from the Czech Technical University in Prague are modeling legislative 
 | -- | ------------- | ------------- | ------------- |
 | 1 | Společné územní a stavební řízení  | https://www.zakonyprolidi.cz/cs/2006-183  |  |
 
-
-LaTex Template: https://github.com/CCMiResearch/MIMEP.SemestralWork.Template
-
-Draw.io DEMO Symbol Library: https://github.com/CCMiResearch/MIMEP.SemestralWork.Template/blob/master/DemoPalette.xml
+Resources: 
+- LaTex Template: https://github.com/CCMiResearch/MIMEP.SemestralWork.Template
+- Draw.io DEMO Symbol Library: https://github.com/CCMiResearch/MIMEP.SemestralWork.Template/blob/master/DemoPalette.xml
 
 License: Authors agreed to publish their work under the Creative Commons 4.0 licence.  
 
