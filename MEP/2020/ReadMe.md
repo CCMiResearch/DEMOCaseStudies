@@ -1,4 +1,4 @@
-# Code of Civil Procedure MI-MEP CTU 2020/2021
+# Code of Civil Procedure NI-MEP CTU 2020/2021
 
 Semestral Works from 2020/2021 NI-MEP CTU Courses. 
 
