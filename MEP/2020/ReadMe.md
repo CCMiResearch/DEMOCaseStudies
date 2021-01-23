@@ -10,7 +10,7 @@ Students from the Czech Technical University in Prague are modeling legislative 
 | 3.1.1 | Průběh řízení - Díl 1. §79-§99 | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava1 |  |
 | 3.1.2 | Průběh řízení - Díl 2. §100 - §112 | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava1 |  |
 | 3.1.3 | Průběh řízení - Díl 3. §114 - §119a | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava1 |  |
-| 3.2+3.3 | Dokazování + Náklady řízení | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava2 https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava3|  |
+| 3.2+3.3 | Dokazování + Náklady řízení | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava2 https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava3| Krbilová, Obermajerová |
 | 3.4 | Rozhodnutí | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava4 |  |
 | 4.1 | Odvolání | https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava1 |  |
 | 4.2+4.3 | Žaloba na obnovu řízení pro zmatečnost + Dovolání | https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava2 https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava3 |  |
