@@ -11,7 +11,7 @@ Students from the Czech Technical University in Prague are modeling legislative 
 | 3.1.2 | Průběh řízení - Díl 2. §100 - §112 | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava1 |  |
 | 3.1.3 | Průběh řízení - Díl 3. §114 - §119a | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava1 | Drda, Kučera |
 | 3.2+3.3 | Dokazování + Náklady řízení | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava2 https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava3| Krbilová, Obermajerová |
-| 3.4 | Rozhodnutí | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava4 | Bodnárová, Bitner |
+| 3.4 | Rozhodnutí | https://www.zakonyprolidi.cz/cs/1963-99#cast3-hlava4 | Bodnárová, Bittner |
 | 4.1 | Odvolání | https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava1 | Horyna, Zikán |
 | 4.2+4.3 | Žaloba na obnovu řízení pro zmatečnost + Dovolání | https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava2 https://www.zakonyprolidi.cz/cs/1963-99#cast4-hlava3 | Herman, Holínská  |
 | 5+6.6 | Řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem + Zřízení soudsovskýho zástavního práva na nemovitých věcech | https://www.zakonyprolidi.cz/cs/1963-99#cast5 https://www.zakonyprolidi.cz/cs/1963-99#cast6-hlava6 |  |
