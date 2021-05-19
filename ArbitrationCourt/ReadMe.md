@@ -1,5 +1,5 @@
 
 # An Arbitration Court Case Study
 
-Created by Martina Lassaková, Marek Skotnica, and Robert Pergl. 
-CC4
+Authors: Martina Lassaková, Marek Skotnica, and Robert Pergl. 
+License: Creative Commons 4.0
