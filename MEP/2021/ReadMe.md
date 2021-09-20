@@ -1,4 +1,4 @@
-# Code of Civil Procedure NI-MEP CTU 2020/2021
+# Czech Legal Processes NI-MEP CTU 2020/2021
 
 Semestral Works from 2021/2022 NI-MEP CTU Courses. 
 
