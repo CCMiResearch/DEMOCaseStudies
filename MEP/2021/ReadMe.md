@@ -1,6 +1,6 @@
 # Code of Civil Procedure NI-MEP CTU 2020/2021
 
-Semestral Works from 2020/2021 NI-MEP CTU Courses. 
+Semestral Works from 2021/2022 NI-MEP CTU Courses. 
 
 Students from the Czech Technical University in Prague are modeling legislative procedures and suggest ways to digitize them. The process is demonstrated on this video https://www.youtube.com/watch?v=La8xuSyLD_Y 
 
