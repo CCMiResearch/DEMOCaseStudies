@@ -1,12 +1,13 @@
 # Czech Legal Processes NI-MEP CTU 2021/2022
 
-Semestral Works from 2021/2022 NI-MEP CTU Courses. 
+Semestral Works from 2021/2022 NI-MEP CTU Courses. Students were modeling a part of procedural law as-is and then suggesting a to-be state in which an IT system supports the process. The to-be model was created in executable BPMN notation and executed in the Camunda Platform. 
 
 | Law | Law Detail  | Legislation Url | Author |
 | -- | ------------- | ------------- | ------------- |
 |  |  |  |  |
 | Code of Civil Procedure | Řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem + Zřízení soudsovskýho zástavního práva na nemovitých věcech | https://www.zakonyprolidi.cz/cs/1963-99#cast5 <br /> https://www.zakonyprolidi.cz/cs/1963-99#cast6-hlava6 | Havrdová Lucie |
 | Code of Civil Procedure | Prodej movitých věcí a nemovitých věcí - Díl 1. §321 - §334a | https://www.zakonyprolidi.cz/cs/1963-99#cast6-hlava5 | Holý Viktor |
+| Code of Civil Procedure | HLAVA VIII - ODVOLACÍ ŘÍZENÍ(§ 81 - § 93) <br /> HLAVA IX - PŘEZKUMNÉ ŘÍZENÍ(§ 94 - § 99) <br /> HLAVA X - OBNOVA ŘÍZENÍ A NOVÉ ROZHODNUTÍ(§ 100 - § 102) | https://www.zakonyprolidi.cz/cs/2004-500#cast2-hlava8 <br /> https://www.zakonyprolidi.cz/cs/2004-500#cast2-hlava9 <br /> https://www.zakonyprolidi.cz/cs/2004-500#cast2-hlava10 | Kučerová Michaela |
 | Tax Regulations | HLAVA VI - ŘÍZENÍ A DALŠÍ POSTUPY - Díl 1. (§ 70 - § 90) |	https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6 | Martínková Jana |
 | Tax Regulations | HLAVA VI - ŘÍZENÍ A DALŠÍ POSTUPY - Díl 2. (§ 91 - § 107) | https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6 | Matoušek Daniel |
 | Tax Regulations | 	HLAVA I - REGISTRAČNÍ ŘÍZENÍ(§ 125 - § 131) <br /> HLAVA II - ŘÍZENÍ O ZÁVAZNÉM POSOUZENÍ(§ 132 - § 133) <br /> HLAVA III - DAŇOVÉ ŘÍZENÍ(§ 134) <br /> HLAVA IV - NALÉZACÍ ŘÍZENÍ(§ 135 - § 144) | https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava1 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava2 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava3 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava4 | Novotný Jan |
