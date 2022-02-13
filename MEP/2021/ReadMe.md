@@ -1,12 +1,10 @@
-# Czech Legal Processes NI-MEP CTU 2020/2021
+# Czech Legal Processes NI-MEP CTU 2021/2022
 
 Semestral Works from 2021/2022 NI-MEP CTU Courses. 
 
-Students from the Czech Technical University in Prague are modeling legislative procedures and suggest ways to digitize them. The process is demonstrated on this video https://www.youtube.com/watch?v=La8xuSyLD_Y 
-
-| No. | Legislation  | Legislation Url | Author |
+| Law | Law Detail  | Legislation Url | Author |
 | -- | ------------- | ------------- | ------------- |
-| 2 | Část 2. Činnost soudu před zahájením řízení | https://www.zakonyprolidi.cz/cs/1963-99#cast2 |  |
+| Tax Regulations | HLAVA VI - ŘÍZENÍ A DALŠÍ POSTUPY - Díl 1. (§ 70 - § 90) |	https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6 | Martínková Jana |
 
 
 Resources: 
