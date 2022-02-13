@@ -5,7 +5,7 @@ Semestral Works from 2021/2022 NI-MEP CTU Courses.
 | Law | Law Detail  | Legislation Url | Author |
 | -- | ------------- | ------------- | ------------- |
 |  |  |  |  |
-|  |  |  |  |
+| Code of Civil Procedure | Řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem + Zřízení soudsovskýho zástavního práva na nemovitých věcech | https://www.zakonyprolidi.cz/cs/1963-99#cast5 <br /> https://www.zakonyprolidi.cz/cs/1963-99#cast6-hlava6 | Havrdová Lucie |
 | Code of Civil Procedure | Prodej movitých věcí a nemovitých věcí - Díl 1. §321 - §334a | https://www.zakonyprolidi.cz/cs/1963-99#cast6-hlava5 | Holý Viktor |
 | Tax Regulations | HLAVA VI - ŘÍZENÍ A DALŠÍ POSTUPY - Díl 1. (§ 70 - § 90) |	https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6 | Martínková Jana |
 | Tax Regulations | HLAVA VI - ŘÍZENÍ A DALŠÍ POSTUPY - Díl 2. (§ 91 - § 107) | https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6 | Matoušek Daniel |
