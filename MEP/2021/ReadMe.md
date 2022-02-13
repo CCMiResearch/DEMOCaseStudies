@@ -12,7 +12,8 @@ Semestral Works from 2021/2022 NI-MEP CTU Courses.
 | Tax Regulations | 	HLAVA I - REGISTRAČNÍ ŘÍZENÍ(§ 125 - § 131) <br /> HLAVA II - ŘÍZENÍ O ZÁVAZNÉM POSOUZENÍ(§ 132 - § 133) <br /> HLAVA III - DAŇOVÉ ŘÍZENÍ(§ 134) <br /> HLAVA IV - NALÉZACÍ ŘÍZENÍ(§ 135 - § 144) | https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava1 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava2 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava3 <br /> https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava4 | Novotný Jan |
 | Tax Regulations | HLAVA V - PLACENÍ DANÍ - Díl 2. (§ 163 - § 179) | https://www.zakonyprolidi.cz/cs/2009-280#cast3-hlava5 | Primus David |
 | Criminal Procedure | HLAVA DEVÁTÁ - POSTUP PŘED ZAHÁJENÍM TRESTNÍHO STÍHÁNÍ(§ 158 - § 159d) | https://www.zakonyprolidi.cz/cs/1961-141#cast2-hlava9 | Soběslav Roman |
-| Criminal Procedure | HLAVA DESÁTÁ - ZAHÁJENÍ TRESTNÍHO STÍHÁNÍ, DALŠÍ POSTUP V NĚM A ZKRÁCENÉ PŘÍPRAVNÉ ŘÍZENÍ - 1. Díl (§ 160 - § 173a) | https://www.zakonyprolidi.cz/cs/1961-141#cast2-hlava10 | 	Starůstka Jan |
+| Criminal Procedure | HLAVA DESÁTÁ - ZAHÁJENÍ TRESTNÍHO STÍHÁNÍ, DALŠÍ POSTUP V NĚM A ZKRÁCENÉ PŘÍPRAVNÉ ŘÍZENÍ - 1. Díl (§ 160 - § 173a) | https://www.zakonyprolidi.cz/cs/1961-141#cast2-hlava10 | Starůstka Jan |
+| Criminal Procedure | HLAVA TŘINÁCTÁ - HLAVNÍ LÍČENÍ - Díl 1. (§ 196 - § 218) | https://www.zakonyprolidi.cz/cs/1961-141#cast3-hlava13 | Strnad Ladislav |
 | Criminal Procedure | HLAVA OSMNÁCTÁ - STÍŽNOST PRO PORUŠENÍ ZÁKON A ŘÍZENÍ O NÍ(§ 266 - § 276) <br/> HLAVA DEVATENÁCTÁ - OBNOVA ŘÍZENÍ(§ 277 - § 289) | https://www.zakonyprolidi.cz/cs/1961-141#cast3-hlava18 <br/> https://www.zakonyprolidi.cz/cs/1961-141#cast3-hlava19 | Cihlář Ondřej |
 |  |  |  |  |
 |  |  |  |  |
